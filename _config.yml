@@ -1,0 +1,14 @@
+layout_spectrum: 0.4932274257298559
+typography_spectrum: 0.8513182692695409
+color:
+  brandStrength: 0.13059659604914486
+  lightness: 0.6766604266595095
+  saturation: 0.05348186381161213
+  rhythmicContrast: 0.1925129434093833
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: HomePlusPets
